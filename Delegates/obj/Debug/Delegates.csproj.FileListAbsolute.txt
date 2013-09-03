@@ -1,0 +1,6 @@
+c:\users\nino\documents\visual studio 2012\Projects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+c:\users\nino\documents\visual studio 2012\Projects\Delegates\Delegates\bin\Debug\Delegates.exe
+c:\users\nino\documents\visual studio 2012\Projects\Delegates\Delegates\bin\Debug\Delegates.pdb
+c:\users\nino\documents\visual studio 2012\Projects\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+c:\users\nino\documents\visual studio 2012\Projects\Delegates\Delegates\obj\Debug\Delegates.exe
+c:\users\nino\documents\visual studio 2012\Projects\Delegates\Delegates\obj\Debug\Delegates.pdb
